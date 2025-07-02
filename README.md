@@ -56,10 +56,6 @@ This dashboard delivers critical insights into:
 📌 **Gender Distribution**  
 - Attrition is higher among male employees (60%+)
 
-📎 **Demo Screenshot**  
+📎 **Screenshot**
 ![Attrition Analytics Dashboard](./Attrition%20Analytics.png)
 
-## Files Included
-1. [Details Data](Details.csv) - The cleaned dataset used for the dashboard.
-2. [Dashboard_Screenshots]() - Folder containing screenshots of key visuals from the dashboard.
-3. [README.md]() - Project documentation with details on setup, usage, and insights.
